@@ -12,7 +12,7 @@ In the future, I would like to specialize in databases, because I really enjoy w
 
 - Programming Languages: PHP, Python, JavaScript
 - Web development: HTML, CSS
-- Frameworks: Yii, Laravel
+- Frameworks: Yii, Laravel, Flask
 - Databases: SQL
 - CMS: Wordpress
 - Tools: Git, Github, VS Code
