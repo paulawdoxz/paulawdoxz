@@ -10,7 +10,7 @@ In the future, I would like to specialize in databases, because I really enjoy w
 
 ### Hard skills
 
-- Programming Languages: PHP, Python, JavaScript
+- Programming Languages: PHP (OOP, PDO), Python, JavaScript
 - Web development: HTML, CSS
 - Frameworks: Yii, Laravel, Flask
 - Databases: SQL
