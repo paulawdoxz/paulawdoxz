@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello! 
 
-<!--
-**paulawdoxz/paulawdoxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+My name is Paula and I am a second-year Software Development student. I am a creative, trustworthy, and independent person who enjoys taking on challenges. I constantly try to learn new things and improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a second-year Software Development student, I am currently expanding my practical skills and preparing for future internship opportunities to gain real project experience.
+
+In the future, I would like to specialize in databases, because I really enjoy working with PHP and SQL. I would also like to explore game development, and besides databases, I am not afraid to try new areas and specializations. I currently have a solid understanding of the basics and I am actively developing my practical experience by working on projects and exercises.
+
+### Hard skills
+
+- Programming Languages: PHP, Python, JavaScript
+- Web development: HTML, CSS
+- Frameworks: Yii, Laravel
+- Databases: SQL
+- CMS: Wordpress
+- Tools: Git, Github, VS Code
+
+### Soft skills
+
+- Teamwork
+- Creativity
+- Independence
+- Willingness to learn
+- Trustworthiness
+- Critical thinking
+- Attention to detail
+- Empathy
+
+### Currently Learning
+- Preparing for an internship to gain real industry practice and continue improving my programming skills
